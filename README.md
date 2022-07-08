@@ -1,1 +1,4 @@
 # odin-recipes
+The goal of the project is to build a basic recipe website. The website will contain a main index page which will have links to a few recipes. Throughout this project, I was able to practice how to create multiple pages and link the index page to these separate html files. I also demonstrated how to write unordered lists and call to images on the internet. Finally, I got practice in writing a boilerplate and formatting html files. 
+
+Overall, this project was a good start to learning html and also tested my abilities with git. At the start, I forgot some of the commands but by the end of the project, I was able to write them without referencing the Git Basics lesson. 
