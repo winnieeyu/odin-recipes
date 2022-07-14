@@ -9,3 +9,8 @@ img {
     margin-right: auto;
     display: block;
 }
+
+ul {
+    display: table;
+    margin: auto;
+}
